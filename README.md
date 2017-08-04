@@ -1,1 +1,1 @@
-This is a file which holds a shopping list in an array
+This is a file which holds a shopping list in an array, changes have been made
