@@ -1,0 +1,1 @@
+This is a file which holds a shopping list in an array
